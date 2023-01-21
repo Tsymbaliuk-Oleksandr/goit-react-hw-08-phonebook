@@ -26,7 +26,6 @@ export const ContactItem = ({ id, name, number, deleteContact }) => {
   );
 };
 
-// export default ContactItem;
 
 ContactItem.propTypes = {
   id: PropTypes.string.isRequired,
