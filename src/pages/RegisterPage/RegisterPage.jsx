@@ -23,6 +23,7 @@ const RegisterPage = () => {
       default:
         return;
     }
+    // console.log(target);
   };
 
   const handleSubmit = e => {
